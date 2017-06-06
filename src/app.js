@@ -6,7 +6,7 @@ import commander from 'commander'
 import locator from './locator'
 import BookService from './bookService'
 import BookRepository from './bookRepository'
-import QueryBuilder from './queryBuilder'
+import QueryBuilder from "./queryBuilder"
 
 // -----------------------------------------------------------------------------
 dotenv.config()
@@ -25,13 +25,13 @@ commander
   .usage('[options] <term>')
   .option('-a, --author [author]', 'filter by author')
   .option('-t, --title [title]', 'filter by title')
-  .parse(process.argv);
+  .parse(process.argv)
 
 const term = commander.args.pop()
 const author = commander.author
 const title = commander.title
 
 export const main = () => {
-  locator.bookService(term, author, title).then(
+  locator.bookService.search(term, author, title).then(
     response => console.log(prettyjson.render(response)))
 }

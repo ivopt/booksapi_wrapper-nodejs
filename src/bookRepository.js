@@ -1,8 +1,11 @@
 // BookRepository - responsible for getting results from the API
 
-const bookRepository = (httpClient) => (query) =>
-  httpClient.get(query)
-            .then(resp => resp.data.items.map(mapItemToBook))
+const bookRepository = (httpClient) => ({
+  find(query) {
+    return httpClient.get(query)
+                     .then(resp => resp.data.items.map(mapItemToBook))
+  }
+})
 
 export default bookRepository
 

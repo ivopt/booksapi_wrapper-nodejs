@@ -1,9 +1,11 @@
 const bookService = (
   queryBuilder,
   bookRepository
-) => (term, author, title) => {
-  const query = queryBuilder(term, author, title)
-  return bookRepository(query)
-}
+) => ({
+  search(term, author, title) {
+    const query = queryBuilder({term, author, title})
+    return bookRepository.find(query)
+  }
+})
 
-export default bookService;
+export default bookService

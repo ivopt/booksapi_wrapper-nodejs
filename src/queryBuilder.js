@@ -1,4 +1,4 @@
-const queryBuilder = baseURL => (term, author, title) => {
+const queryBuilder = baseURL => ({ term, author, title }) => {
   let url = `${baseURL}${term}`
 
   if (author)
