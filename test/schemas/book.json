@@ -1,0 +1,11 @@
+{
+  "title": "Book",
+  "type": "object",
+  "properties": {
+    "title": { "type": "string" },
+    "authors": { "type": "string" },
+    "publisher": { "type": "string" },
+    "categories": { "type": "string" },
+    "industryIdentifiers": { "type": "string" }
+  }
+}

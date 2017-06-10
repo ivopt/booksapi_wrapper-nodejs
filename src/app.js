@@ -5,6 +5,7 @@ import commander from 'commander'
 
 import locator from './locator'
 import BookService from './bookService'
+import BookMapper from './bookMapper'
 import BookRepository from './bookRepository'
 import QueryBuilder from "./queryBuilder"
 
@@ -15,8 +16,9 @@ dotenv.config()
 // Wiring phase...
 locator
   .register('httpClient', axios)
+  .register('bookMapper', BookMapper)
   .register('queryBuilder', QueryBuilder(process.env.BOOKS_API_URL))
-  .register('bookRepository', BookRepository(locator.httpClient))
+  .register('bookRepository', BookRepository(locator.httpClient, locator.bookMapper))
   .register('bookService', BookService(locator.queryBuilder, locator.bookRepository))
 
 // Argv parsing

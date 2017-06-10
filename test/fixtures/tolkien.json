@@ -1,0 +1,815 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 484,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "XsJ645BbokAC",
+   "etag": "nCLcWn8PIYI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XsJ645BbokAC",
+   "volumeInfo": {
+    "title": "J.R.R. Tolkien",
+    "authors": [
+     "Harold Bloom"
+    ],
+    "publisher": "Infobase Publishing",
+    "publishedDate": "2008",
+    "description": "Explores the author's literary work through critical essays that examine such themes as the Middle-Earth concept, mythology, and the relationship between literature and language.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781604131468"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1604131462"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 180,
+    "printType": "BOOK",
+    "categories": [
+     "Juvenile Nonfiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XsJ645BbokAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XsJ645BbokAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pt/books?id=XsJ645BbokAC&printsec=frontcover&dq=Tolkien&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.pt/books?id=XsJ645BbokAC&dq=Tolkien&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/J_R_R_Tolkien.html?hl=&id=XsJ645BbokAC"
+   },
+   "saleInfo": {
+    "country": "PT",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pt/books/download/J_R_R_Tolkien-sample-epub.acsm?id=XsJ645BbokAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pt/books/download/J_R_R_Tolkien-sample-pdf.acsm?id=XsJ645BbokAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=XsJ645BbokAC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Explores the author&#39;s literary work through critical essays that examine such themes as the Middle-Earth concept, mythology, and the relationship between literature and language."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MTJTas9pH9wC",
+   "etag": "0lp2cnkMN6Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MTJTas9pH9wC",
+   "volumeInfo": {
+    "title": "J.R.R. Tolkien",
+    "authors": [
+     "Mark Horne"
+    ],
+    "publisher": "Thomas Nelson Inc",
+    "publishedDate": "2011-08-01",
+    "description": "Christian Encounters, a series of biographies from Thomas Nelson Publishers, highlights important lives from all ages and areas of the Church. Some are familiar faces. Others are unexpected guests. But all, through their relationships, struggles, prayers, and desires, uniquely illuminate our shared experience. Born in South Africa and growing up in Great Britain, J.R.R. Tolkien, or Ronald as he was known, led a young life filled with uncertainty and instability. His was not a storybook childhood- his father died when Ronald was three years old, and his mother died just before he reached adolescence. Left under the guardianship of his mother's friend and priest, Ronald forged his closest relationships with friends who shared his love for literature and languages. As Tolkien grew older, married, served as a soldier, and became a well-respected Oxford professor publishing weighty works on Sir Gawain and the Green Knight and Beowulf, the Christian faith that his mother had instilled in him continued as an intrinsic element of his creative imagination and his everyday life. It was through The Hobbit and the three-volume The Lord of the Rings that Tolkien became a literary giant throughout the world. In his fiction, which earned him the informal title of \"the father of modern fantasy literature,\" Tolkien presents readers with a vision of freedom- nothing preachy- that a strong, unequivocal faith can transmit.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781595554031"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1595554033"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 15,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "4.9.5.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=MTJTas9pH9wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=MTJTas9pH9wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pt/books?id=MTJTas9pH9wC&printsec=frontcover&dq=Tolkien&hl=&cd=2&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=MTJTas9pH9wC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-MTJTas9pH9wC"
+   },
+   "saleInfo": {
+    "country": "PT",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 7.99,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 7.99,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=MTJTas9pH9wC&rdid=book-MTJTas9pH9wC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 7990000.0,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 7990000.0,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pt/books/download/J_R_R_Tolkien-sample-epub.acsm?id=MTJTas9pH9wC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=MTJTas9pH9wC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "It was through The Hobbit and the three-volume The Lord of the Rings that Tolkien became a literary giant throughout the world."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "B0loOBA3ejIC",
+   "etag": "vGhRzjhQ45k",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/B0loOBA3ejIC",
+   "volumeInfo": {
+    "title": "J.R.R. Tolkien Encyclopedia",
+    "subtitle": "Scholarship and Critical Assessment",
+    "authors": [
+     "Michael D. C. Drout"
+    ],
+    "publisher": "Taylor & Francis",
+    "publishedDate": "2007",
+    "description": "A detailed work of reference and scholarship, this one volume Encyclopedia includes discussions of all the fundamental issues in Tolkien scholarship written by the leading scholars in the field. Coverage not only presents the most recent scholarship on J.R.R. Tolkien, but also introduces and explores the author and scholar's life and work within their historical and cultural contexts. Tolkien's fiction and his sources of influence are examined along with his artistic and academic achievements - including his translations of medieval texts - teaching posts, linguistic works, and the languages he created. The 550 alphabetically arranged entries fall within the following categories of topics: adaptations art and illustrations characters in Tolkien's work critical history and scholarship influence of Tolkien languages biography literary sources literature creatures and peoples of Middle-earth objects in Tolkien's work places in Tolkien's work reception of Tolkien medieval scholars scholarship by Tolkien medieval literature stylistic elements themes in Tolkien's works theological/ philosophical concepts and philosophers Tolkien's contemporary history and culture works of literature",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415969420"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0415969425"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 774,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=B0loOBA3ejIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=B0loOBA3ejIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pt/books?id=B0loOBA3ejIC&printsec=frontcover&dq=Tolkien&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.pt/books?id=B0loOBA3ejIC&dq=Tolkien&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/J_R_R_Tolkien_Encyclopedia.html?hl=&id=B0loOBA3ejIC"
+   },
+   "saleInfo": {
+    "country": "PT",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=B0loOBA3ejIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A detailed work of reference and scholarship, this one volume Encyclopedia includes discussions of all the fundamental issues in Tolkien scholarship written by the leading scholars in the field."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ej-6epU6h9gC",
+   "etag": "xMgcfrfFDTs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ej-6epU6h9gC",
+   "volumeInfo": {
+    "title": "O Silmarillion",
+    "authors": [
+     "J.R.R. Tolkien"
+    ],
+    "publisher": "WWF Martins Fontes",
+    "publishedDate": "2015-08-11",
+    "description": "O Silmarillion relata acontecimentos de uma época muito anterior ao final da Terceira Era, quando ocorreram os grandes eventos narrados em O Senhor dos Anéis. São lendas derivadas de um passado remoto, ligadas às Silmarils, três gemas perfeitas criadas por Fëanor, o mais talentoso dos elfos. Tolkien trabalhou nesses textos ao longo de toda a sua vida, tornando-os veículo e registro de suas reflexões mais profundas.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788578274306"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "857827430X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 412,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.5.0.preview.2",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ej-6epU6h9gC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ej-6epU6h9gC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "pt",
+    "previewLink": "http://books.google.pt/books?id=ej-6epU6h9gC&dq=Tolkien&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.pt/books?id=ej-6epU6h9gC&dq=Tolkien&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/O_Silmarillion.html?hl=&id=ej-6epU6h9gC"
+   },
+   "saleInfo": {
+    "country": "PT",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PT",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=ej-6epU6h9gC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "O Silmarillion relata acontecimentos de uma época muito anterior ao final da Terceira Era, quando ocorreram os grandes eventos narrados em O Senhor dos Anéis."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lwidpxMe-AIC",
+   "etag": "VgTEckTWes4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lwidpxMe-AIC",
+   "volumeInfo": {
+    "title": "Ents, Elves, and Eriador",
+    "subtitle": "The Environmental Vision of J.R.R. Tolkien",
+    "authors": [
+     "Matthew Dickerson"
+    ],
+    "publisher": "University Press of Kentucky",
+    "publishedDate": "2006-11-17",
+    "description": "Many readers drawn into the heroic tales of J. R. R. Tolkien’s imaginary world of Middle-earth have given little conscious thought to the importance of the land itself in his stories or to the vital roles played by the flora and fauna of that land. As a result, The Hobbit, The Lord of the Rings, and The Silmarillion are rarely considered to be works of environmental literature or mentioned together with such authors as John Muir, Rachel Carson, or Aldo Leopold. Tolkien’s works do not express an activist agenda; instead, his environmentalism is expressed in the form of literary fiction. Nonetheless, Tolkien’s vision of nature is as passionate and has had as profound an influence on his readers as that of many contemporary environmental writers. The burgeoning field of agrarianism provides new insights into Tolkien’s view of the natural world and environmental responsibility. In Ents, Elves, and Eriador, Matthew Dickerson and Jonathan Evans show how Tolkien anticipated some of the tenets of modern environmentalism in the imagined world of Middle-earth and the races with which it is peopled. The philosophical foundations that define Tolkien’s environmentalism, as well as the practical outworking of these philosophies, are found throughout his work. Agrarianism is evident in the pastoral lifestyle and sustainable agriculture of the Hobbits, as they harmoniously cultivate the land for food and goods. The Elves practice aesthetic, sustainable horticulture as they shape their forest environs into an elaborate garden. To complete Tolkien’s vision, the Ents of Fangorn Forest represent what Dickerson and Evans label feraculture, which seeks to preserve wilderness in its natural form. Unlike the Entwives, who are described as cultivating food in tame gardens, the Ents risk eventual extinction for their beliefs. These ecological philosophies reflect an aspect of Christian stewardship rooted in Tolkien’s Catholic faith. Dickerson and Evans define it as “stewardship of the kind modeled by Gandalf,” a stewardship that nurtures the land rather than exploiting its life-sustaining capacities to the point of exhaustion. Gandalfian stewardship is at odds with the forces of greed exemplified by Sauron and Saruman, who, with their lust for power, ruin the land they inhabit, serving as a dire warning of what comes to pass when stewardly care is corrupted or ignored. Dickerson and Evans examine Tolkien’s major works as well as his lesser-known stories and essays, comparing his writing to that of the most important naturalists of the past century. A vital contribution to environmental literature and an essential addition to Tolkien scholarship, Ents, Elves, and Eriador offers both Tolkien fans and environmentalists an understanding of Middle-earth that has profound implications for environmental stewardship in the present and the future of our own world.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780813171593"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0813171598"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 344,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.3.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=lwidpxMe-AIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=lwidpxMe-AIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pt/books?id=lwidpxMe-AIC&printsec=frontcover&dq=Tolkien&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=lwidpxMe-AIC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-lwidpxMe-AIC"
+   },
+   "saleInfo": {
+    "country": "PT",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.39,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 22.39,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=lwidpxMe-AIC&rdid=book-lwidpxMe-AIC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.239E7,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.239E7,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=lwidpxMe-AIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Many readers drawn into the heroic tales of J. R. R. Tolkien’s imaginary world of Middle-earth have given little conscious thought to the importance of the land itself in his stories or to the vital roles played by the flora and fauna of ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "M7IQ4jTC0esC",
+   "etag": "G/G4BaLu5/Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/M7IQ4jTC0esC",
+   "volumeInfo": {
+    "title": "J.R.R. Tolkien",
+    "subtitle": "A Biography",
+    "authors": [
+     "Leslie Jones"
+    ],
+    "publisher": "Greenwood Publishing Group",
+    "publishedDate": "2003",
+    "description": "Profiles the life and literary career of J.R.R. Tolkien, author of \"The Hobbit\" and \"The Lord of the Rings\" trilogy.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0313323402"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780313323409"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 156,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 4,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=M7IQ4jTC0esC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=M7IQ4jTC0esC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pt/books?id=M7IQ4jTC0esC&printsec=frontcover&dq=Tolkien&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.pt/books?id=M7IQ4jTC0esC&dq=Tolkien&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/J_R_R_Tolkien.html?hl=&id=M7IQ4jTC0esC"
+   },
+   "saleInfo": {
+    "country": "PT",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pt/books/download/J_R_R_Tolkien-sample-epub.acsm?id=M7IQ4jTC0esC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pt/books/download/J_R_R_Tolkien-sample-pdf.acsm?id=M7IQ4jTC0esC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=M7IQ4jTC0esC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Profiles the life and literary career of J.R.R. Tolkien, author of &quot;The Hobbit&quot; and &quot;The Lord of the Rings&quot; trilogy."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OlCHcjX0RT4C",
+   "etag": "WU3sQX4j8o4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OlCHcjX0RT4C",
+   "volumeInfo": {
+    "title": "The Hobbit",
+    "authors": [
+     "J.R.R. Tolkien"
+    ],
+    "publisher": "Houghton Mifflin Harcourt",
+    "publishedDate": "2012-11-08",
+    "description": "This lavish gift edition of J.R.R. Tolkien's classic features cover art, illustrations, and watercolor paintings by the artist Alan Lee. Bilbo Baggins is a hobbit who enjoys a comfortable, unambitious life, rarely traveling any farther than his pantry or cellar. But his contentment is disturbed when the wizard Gandalf and a company of dwarves arrive on his doorstep one day to whisk him away on an adventure. They have launched a plot to raid the treasure hoard guarded by Smaug the Magnificent, a large and very dangerous dragon. Bilbo reluctantly joins their quest, unaware that on his journey to the Lonely Mountain he will encounter both a magic ring and a frightening creature known as Gollum. Written for J.R.R. Tolkien's own children, The Hobbit has sold many millions of copies worldwide and established itself as a modern classic.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780544115552"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0544115554"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "Young Adult Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 2561,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.5.5.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=OlCHcjX0RT4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=OlCHcjX0RT4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pt/books?id=OlCHcjX0RT4C&printsec=frontcover&dq=Tolkien&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.pt/books?id=OlCHcjX0RT4C&dq=Tolkien&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Hobbit.html?hl=&id=OlCHcjX0RT4C"
+   },
+   "saleInfo": {
+    "country": "PT",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pt/books/download/The_Hobbit-sample-epub.acsm?id=OlCHcjX0RT4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pt/books/download/The_Hobbit-sample-pdf.acsm?id=OlCHcjX0RT4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OlCHcjX0RT4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This lavish gift edition of J.R.R. Tolkien&#39;s classic features cover art, illustrations, and watercolor paintings by the artist Alan Lee."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "6TX3hJckf3YC",
+   "etag": "gdd9Z9H0T3o",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/6TX3hJckf3YC",
+   "volumeInfo": {
+    "title": "Tolkien the Medievalist",
+    "authors": [
+     "Jane Chance"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2003-08-27",
+    "description": "Interdisciplinary in approach, Tolkien the Medievalist provides a fresh perspective on J. R. R. Tolkien's Medievalism. In fifteen essays, eminent scholars and new voices explore how Professor Tolkien responded to a modern age of crisis - historical, academic and personal - by adapting his scholarship on medieval literature to his own personal voice. The four sections reveal the author influenced by his profession, religious faith and important issues of the time; by his relationships with other medievalists; by the medieval sources that he read and taught, and by his own medieval mythologizing.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781134439713"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1134439717"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 320,
+    "printType": "BOOK",
+    "categories": [
+     "History"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=6TX3hJckf3YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=6TX3hJckf3YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pt/books?id=6TX3hJckf3YC&pg=PA1&dq=Tolkien&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.pt/books?id=6TX3hJckf3YC&dq=Tolkien&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Tolkien_the_Medievalist.html?hl=&id=6TX3hJckf3YC"
+   },
+   "saleInfo": {
+    "country": "PT",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=6TX3hJckf3YC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "J. R. R. \u003cb\u003eTolkien&#39;s\u003c/b\u003e The Lord of the Rings was recently named “Book of the Century” \u003cbr\u003e\nin a survey of 25,000 British readers. The trilogy has sold over a hundred million \u003cbr\u003e\ncopies worldwide since its publication in 1954 and has been translated into&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9eLCAgAAQBAJ",
+   "etag": "jDv577vZJOo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9eLCAgAAQBAJ",
+   "volumeInfo": {
+    "title": "The Letters of J.R.R. Tolkien",
+    "authors": [
+     "J.R.R. Tolkien"
+    ],
+    "publisher": "Houghton Mifflin Harcourt",
+    "publishedDate": "2014-02-21",
+    "description": "This collection will entertain all who appreciate the art of masterful letter writing. The Letters of J.R.R Tolkien sheds much light on Tolkien's creative genius and grand design for the creation of a whole new world: Middle-earth. Featuring a radically expanded index, this volume provides a valuable research tool for all fans wishing to trace the evolution of THE HOBBIT and THE LORD OF THE RINGS.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780544363793"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0544363795"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 512,
+    "printType": "BOOK",
+    "categories": [
+     "Biography & Autobiography"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.4.3.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9eLCAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9eLCAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pt/books?id=9eLCAgAAQBAJ&printsec=frontcover&dq=Tolkien&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.pt/books?id=9eLCAgAAQBAJ&dq=Tolkien&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Letters_of_J_R_R_Tolkien.html?hl=&id=9eLCAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "PT",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "PT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pt/books/download/The_Letters_of_J_R_R_Tolkien-sample-epub.acsm?id=9eLCAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pt/books/download/The_Letters_of_J_R_R_Tolkien-sample-pdf.acsm?id=9eLCAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9eLCAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This collection will entertain all who appreciate the art of masterful letter writing. The Letters of J.R.R Tolkien sheds much light on Tolkien&#39;s creative genius and grand design for the creation of a whole new world: Middle-earth."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "AOS74uZTasYC",
+   "etag": "CUZiG5wdLuM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/AOS74uZTasYC",
+   "volumeInfo": {
+    "title": "Middle-earth Minstrel",
+    "subtitle": "Essays on Music in Tolkien",
+    "authors": [
+     "Bradford Lee Eden"
+    ],
+    "publisher": "McFarland",
+    "publishedDate": "2010-04-08",
+    "description": "\"This book explores the multitude of musical-literary allusions and themes that are intertwined throughout the works of J.R.R. Tolkien, including how his scholarly work with medieval poetry affected the creation, development, and characters in his mythology of Middle-earth\"--Provided by publisher.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780786456604"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0786456604"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 215,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=AOS74uZTasYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=AOS74uZTasYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pt/books?id=AOS74uZTasYC&printsec=frontcover&dq=Tolkien&hl=&cd=10&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=AOS74uZTasYC&source=gbs_api",
+    "canonicalVolumeLink": "https://market.android.com/details?id=book-AOS74uZTasYC"
+   },
+   "saleInfo": {
+    "country": "PT",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.73,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 14.73,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=AOS74uZTasYC&rdid=book-AOS74uZTasYC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.473E7,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.473E7,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pt/books/download/Middle_earth_Minstrel-sample-epub.acsm?id=AOS74uZTasYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pt/books/download/Middle_earth_Minstrel-sample-pdf.acsm?id=AOS74uZTasYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=AOS74uZTasYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Surprisingly, little critical attention has been paid to the presence of music in his novels. This collection of essays explores the multitude of musical-literary allusions and themes intertwined throughout Tolkien’s body of work."
+   }
+  }
+ ]
+}
